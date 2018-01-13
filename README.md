@@ -1,5 +1,5 @@
 # whoami
-go variable type assertion.
+golang basic types learning with terminal.
 
 ### Installtion
 
